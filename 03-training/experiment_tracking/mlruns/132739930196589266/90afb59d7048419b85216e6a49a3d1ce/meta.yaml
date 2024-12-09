@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/03-training/experiment_tracking/mlruns/132739930196589266/90afb59d7048419b85216e6a49a3d1ce/artifacts
+end_time: 1733743223563
+entry_point_name: ''
+experiment_id: '132739930196589266'
+lifecycle_stage: active
+run_id: 90afb59d7048419b85216e6a49a3d1ce
+run_name: amazing-fowl-425
+run_uuid: 90afb59d7048419b85216e6a49a3d1ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733743145275
+status: 3
+tags: []
+user_id: codespace

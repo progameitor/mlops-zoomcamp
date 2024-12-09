@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/mlops-zoomcamp/03-training/experiment_tracking/mlruns/132739930196589266
+creation_time: 1733742556075
+experiment_id: '132739930196589266'
+last_update_time: 1733742556075
+lifecycle_stage: active
+name: my-cool-experiment

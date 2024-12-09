@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/03-training/experiment_tracking/mlruns/132739930196589266/992ec0fd9b7241318a111265834078fe/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '132739930196589266'
+lifecycle_stage: active
+run_id: 992ec0fd9b7241318a111265834078fe
+run_name: placid-mule-669
+run_uuid: 992ec0fd9b7241318a111265834078fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733742657500
+status: 1
+tags: []
+user_id: codespace

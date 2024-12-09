@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/03-training/experiment_tracking/mlruns/132739930196589266/75f3110abb5e43989f5905ab71c9aa97/artifacts
+end_time: 1733742565558
+entry_point_name: ''
+experiment_id: '132739930196589266'
+lifecycle_stage: active
+run_id: 75f3110abb5e43989f5905ab71c9aa97
+run_name: funny-snail-811
+run_uuid: 75f3110abb5e43989f5905ab71c9aa97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733742565219
+status: 4
+tags: []
+user_id: codespace
