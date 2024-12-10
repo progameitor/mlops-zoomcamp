@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+/workspaces/mlops-zoomcamp/04-orcherstration/batch/output
+/workspaces/mlops-zoomcamp/04-orcherstration/batch/mlruns
+/workspaces/mlops-zoomcamp/04-orcherstration/batch/output
+
+
 
 # C extensions
 *.so
